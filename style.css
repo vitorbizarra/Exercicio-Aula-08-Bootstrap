@@ -6,11 +6,16 @@
 }
 
 .login-wrapper {
+    width: 100vw;
     height: 100vh;
     display: flex;
+    background-image: url("http://marcialocacoescdn.azureedge.net/marcialocacoes/c5598884-2e23-4e3d-833b-bb877492c57f.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.login-wrapper {
+.login-wrapper form {
     width: 100%;
     max-width: 480px;
 }
